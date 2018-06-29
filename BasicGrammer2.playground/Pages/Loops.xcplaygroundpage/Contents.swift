@@ -36,6 +36,7 @@ let three = 3
 let four = 4
 var answer = 1
 var answer2 = 1
+var answer3 = 1
 
 
 // 1. for문을 이용하는 방법
